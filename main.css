@@ -179,4 +179,7 @@ h3 {
         padding-left: 112px;
         padding-right: 112px;
     }
+    body{
+        margin-bottom: 100px;
+    }
 }
